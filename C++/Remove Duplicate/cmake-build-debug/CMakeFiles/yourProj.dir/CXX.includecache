@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/oweiss/Desktop/code/leetCode/C++/Remove Duplicate/Solution.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+sstream
+-
+
