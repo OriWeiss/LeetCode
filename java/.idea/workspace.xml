@@ -61,9 +61,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="550" />
+    <option name="y" value="10" />
     <option name="width" value="2547" />
-    <option name="height" value="2111" />
+    <option name="height" value="2112" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -120,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager">
     <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PivotSearch.MainClass" />
       <module name="leetCode" />
@@ -180,15 +181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.MainClass (3)" />
-        <item itemvalue="Application.MainClass (2)" />
-        <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.MainClass" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
